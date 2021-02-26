@@ -2,7 +2,9 @@
 
 ## Details
 *Time*: 5-6 PM HKT, 27th Feb 2021
+
 *Location*: Discord
+
 *Submission Link*: https://forms.gle/5PbiFGXodYhypx126
 
 ## Requirements
