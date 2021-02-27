@@ -1,7 +1,7 @@
 # CSS Salvage, Hacklympics 2021
 
 ## Details
-*Time*: 5-6 PM HKT, 27th Feb 2021
+*Time*: 5-6:30 PM HKT, 27th Feb 2021
 
 *Location*: Discord
 
