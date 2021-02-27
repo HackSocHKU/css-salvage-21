@@ -20,7 +20,7 @@ scripting for the same. [Here is a quick guide on internal and in-line styling](
 ## Rules
 There is only one rule, **do not remove or alter the content of existing HTML elements**. You are free to use CSS and scripting on these elements, but the content must not be modified. 
 
-Feel free to add <div> tags wherever you find them necessary, we haven’t provided any for more flexibility. You are welcome to add more content and other components anywhere in the document. Use of CSS, JavaScript and other styling libraries (e.g. Bootstrap) is accepted
+Feel free to add ```<div>``` tags wherever you find them necessary, we haven’t provided any for more flexibility. You are welcome to add more content and other components anywhere in the document. Use of CSS, JavaScript and other styling libraries (e.g. Bootstrap) is accepted
 
 ## Submission
 You must submit your HTML file through a [Google Form](https://forms.gle/5PbiFGXodYhypx126). Remember, this competition is on an individual basis, so each participant can submit one entry. Please name your file **NameSurname.html** (e.g. JohnSmith.html) for easy identification of your work.
